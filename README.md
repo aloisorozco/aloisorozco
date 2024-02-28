@@ -8,6 +8,6 @@ About me:
 
 Check out some of my projects:
 
-- 👓 [Smart Glasses for the Visually Impaired using ML and Computer Vision](https://github.com/aloisorozco/Sight-Sense)
+- 👓 [Sight Sense: Smart Glasses for the Visually Impaired using ML and Computer Vision](https://github.com/aloisorozco/Sight-Sense)
 - 🏀 [Playon Platform: Fantasy Sports for Real Time Playoffs](https://github.com/aloisorozco/PlayOn-Platform)
 - 🎮 [The Candle Hero: 2D Action Horror Platformer](https://github.com/aloisorozco/The-Candle-Hero)
