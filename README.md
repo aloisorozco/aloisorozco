@@ -2,9 +2,8 @@
 
 About me:
 
-- 🔭 I’m currently working on a fantasy sports application for real-time playoffs!
-- 🧑‍🎓 I’m currently studying Computer Science at Concordia, graduating this semester!
-- 🕴️ I’m looking for junior developer positions!
+- 🔭 I’m currently working on a workout app to track your progress and push your limits!
+- 🧑‍🎓 I’m currently working at Dyze Design, specialized in 3D printers!
 
 Check out some of my projects:
 
