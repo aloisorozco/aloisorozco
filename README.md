@@ -3,6 +3,7 @@
 About me:
 
 - 🔭 I’m currently working on a workout app to track your progress and push your limits!
+- 🏀 I’m currently working on a fantasy sport app for real time playoffs!
 - 🧑‍🎓 I’m currently working at Dyze Design, specialized in 3D printers!
 
 Check out some of my projects:
